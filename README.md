@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lokendraGaur
-- 👀 I’m interested in ...Data Science,AI and ML
+- 👀 I’m interested in ...Data Science, AI and ML
 - 🌱 I’m currently learning ...Faut tolerant strategies
 - 💞️ I’m looking to collaborate on ...AI researchers
 - 📫 How to reach me ...lokendra.gaur@gmail.com
